@@ -1,0 +1,8 @@
+"id": [1,2,3,4,5,6,7,8,9,10],
+    "marca": ["Toyota","Honda","Ford","Chevrolet","Volkswagen","Hyundai","Nissan","Jeep","BMW","Mercedes"],
+    "modelo": ["Corolla","Civic","Focus","Onix","Golf","HB20","Kicks","Renegade","320i","C200"],
+    "ano": [2020,2019,2018,2021,2017,2022,2020,2019,2021,2022],
+    "cor": ["Prata","Preto","Branco","Vermelho","Azul","Cinza","Branco","Verde","Preto","Prata"],
+    "combustivel": ["Gasolina","Flex","Diesel","Flex","Gasolina","Flex","Gasolina","Diesel","Gasolina","Gasolina"],
+    "preco": [95000,88000,72000,65000,78000,70000,85000,99000,210000,250000],
+    "status": ["Disponível","Vendido","Disponível","Disponível","Vendido","Disponível","Disponível","Vendido","Disponível","Disponível"]
