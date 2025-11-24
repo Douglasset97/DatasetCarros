@@ -1,12 +1,8 @@
-carros = 
-    {"id":1,"marca":"Toyota","modelo":"Corolla","ano":2020,"cor":"Prata","combustivel":"Gasolina","preco":95000,"status":"Disponível"},
-    {"id":2,"marca":"Honda","modelo":"Civic","ano":2019,"cor":"Preto","combustivel":"Flex","preco":88000,"status":"Vendido"},
-    {"id":3,"marca":"Ford","modelo":"Focus","ano":2018,"cor":"Branco","combustivel":"Diesel","preco":72000,"status":"Disponível"},
-    {"id":4,"marca":"Chevrolet","modelo":"Onix","ano":2021,"cor":"Vermelho","combustivel":"Flex","preco":65000,"status":"Disponível"},
-    {"id":5,"marca":"Volkswagen","modelo":"Golf","ano":2017,"cor":"Azul","combustivel":"Gasolina","preco":78000,"status":"Vendido"},
-    {"id":6,"marca":"Hyundai","modelo":"HB20","ano":2022,"cor":"Cinza","combustivel":"Flex","preco":70000,"status":"Disponível"},
-    {"id":7,"marca":"Nissan","modelo":"Kicks","ano":2020,"cor":"Branco","combustivel":"Gasolina","preco":85000,"status":"Disponível"},
-    {"id":8,"marca":"Jeep","modelo":"Renegade","ano":2019,"cor":"Verde","combustivel":"Diesel","preco":99000,"status":"Vendido"},
-    {"id":9,"marca":"BMW","modelo":"320i","ano":2021,"cor":"Preto","combustivel":"Gasolina","preco":210000,"status":"Disponível"},
-    {"id":10,"marca":"Mercedes","modelo":"C200","ano":2022,"cor":"Prata","combustivel":"Gasolina","preco":250000,"status":"Disponível"}
-
+id,1,2,3,4,5,6,7,8,9,10,
+marca,Toyota,Honda,Ford,Chevrolet,Volkswagen,Hyundai,Nissan,Jeep,BMW,Mercedes,
+modelo,Corolla,Civic,Focus,Onix,Golf,HB20,Kicks,Renegade,320i,C200,
+ano,2020,2019,2018,2021,2017,2022,2020,2019,2021,2022,
+cor,Prata,Preto,Branco,Vermelho,Azul,Cinza,Branco,Verde,Preto,Prata,
+combustivel,Gasolina","Flex","Diesel","Flex","Gasolina","Flex","Gasolina","Diesel","Gasolina","Gasolina,
+preco,95000,88000,72000,65000,78000,70000,85000,99000,210000,250000,
+status,Disponível,Vendido,Disponível,Disponível,Vendido,Disponível,Disponível,Vendido,Disponível,Disponível,
