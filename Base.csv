@@ -1,4 +1,4 @@
-id,marca,modelo,ano,cor,combustivel,preço,status
+id,marca,modelo,ano,cor,combustivel,preco,status
 1,Toyota,Corolla,2020,Prata,Gasolina,95000,Disponível
 2,Honda,Civic,2019,Preto,Flex,88000,Vendido
 3,Ford,Focus,2018,Branco,Diesel,72000,Disponível
